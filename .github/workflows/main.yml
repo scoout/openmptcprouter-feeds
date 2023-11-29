@@ -2,7 +2,7 @@ name: openmptcprouter
 on: [push]
 
 env:
-  REPO_URL: 'https://github.com/ysurac/openmptcprouter'
+  REPO_URL: 'https://github.com/scoout/openmptcprouter.git'
 
 jobs:
   build:
